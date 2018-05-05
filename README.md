@@ -21,4 +21,10 @@ For extension part, we have designed an application to remove certain part of im
 
 5. Unfold the folder on the left bar and double click the *.pro file, entering edit mode
 
-6. 
+6. Add these two lines to the file:
+
+     `INCLUDEPATH +=C:/Python36/include/`
+
+     `LIBS += C:/Python36/libs/python36.lib`
+     
+7. 
