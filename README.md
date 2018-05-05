@@ -6,7 +6,7 @@ Our target is to design and implement an algorithm to segment any input images i
 <div align=center><img width="150" height="80" src="https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/down3.png"/></div> 
 <div align=center><img width="150" height="80" src="https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/down4.png"/></div>
 
-For extension part, we have designed an application to remove certain part of image interactively, and have made attempts and exploration on a more efficient method. The new method developed by ourselves performed a more stable performance than the other two.
+For extension part, we have designed an application to remove certain part of image interactively, and have made attempts and exploration on a more efficient method. The new method could generate two likelihood score from more than two clusters. It is developed by ourselves and could take advantage of a more stable performance than the other two.
 
 <div align=center><img width="200" height="200" src="https://i1.kknews.cc/SIG=t0eajp/288r00028791qn583976.jpg"/></div> 
 
