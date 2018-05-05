@@ -49,6 +49,8 @@ For extension part, we have designed an application to remove certain part of im
      
 9. Make sure the compiler runs in `MSVC 2017 64 bits` and `debug` mode, start!
 
+Unluckily, you need to delete the output files generated during the process.
+
 ## C++ version without UI:
 
 If you want to run the CPP version without UI, you could enter the CPP file and run three files in order: GMM.py, push_relabel.cpp, show.py. 
