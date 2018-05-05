@@ -56,6 +56,7 @@ Unluckily, you need to delete the output files generated during the process.
 If you want to run the CPP version without UI, you could enter the CPP file and run three files in order: GMM.py, push_relabel.cpp, show.py. 
 
 Each program will read the output file generated from the last file automaticaly. What you need to do is to enter the GMM.py file and change the address of the inputfile and perform the same change in the show.py. 
+Also, you need to change the path in push_relabel.cpp file but don't change the file name!.
 
 The show.py will show the background and foreground of the picture and save them in the local file.  
 
