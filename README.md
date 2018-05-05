@@ -10,6 +10,6 @@ https://www.qt.io/download
 
 2. Make sure that you have Python3 installed
 
-3. Install matplotlib, numpy, sklearn, cv2 for Python
+3. Install matplotlib, numpy, sklearn, cv2， scipy, PLI, copy for Python
 
 4.
