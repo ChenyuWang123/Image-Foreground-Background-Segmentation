@@ -10,6 +10,7 @@ For extension part, we have designed an application to remove certain part of im
 
 ![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/Python(Include%20UI)/6.JPG)
 ![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/Python(Include%20UI)/7.jpg)
+![](https://i1.kknews.cc/SIG=t0eajp/288r00028791qn583976.jpg)
 
 
 ## C++ Version Installation (Windows)
