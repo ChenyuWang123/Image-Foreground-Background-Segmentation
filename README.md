@@ -2,6 +2,7 @@ Image-Foreground-Background-Segmentation
 ====
 ## Introduction
 Our target is to design and implement an algorithm to segment any input images into foreground and background. For basic task, we have used cluster classification, combining with Network Flow to achieve this goal. All the input images are down-sampled and compressed firstly to make the processing more efficient. For the second step, we have implement cluster method GMM, K-means and our extension part to get improved cluster result. After that, Network Flow has be accomplished to label and divide pixels into two groups, which represents background and foreground. 
+
 ![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/down3.png)
 ![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/down4.png)
 
