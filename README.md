@@ -49,3 +49,16 @@ For extension part, we have designed an application to remove certain part of im
      
 9. Make sure the compiler runs in `MSVC 2017 64 bits` and `debug` mode, start!
      
+## Python Version Installation Guide
+
+1. Download the file from our GitHub
+
+2. Install `matplotlib`, `pylab`, `numpy`, `sklearn`, `cv2`，`scipy`, `PIL` , `copy` for Python(Using pip install 'libraray name' in the command line)
+
+3. Drag any picutes you need to the file
+
+4. Using "Python UI_python.py" command in the command line to run the UI
+
+5. Upload the image form your computer, click any point you care about in the picture, and click "Sever Image" button to run the program. It will takes about 2-8 minutes to finish the process(It depends on the size of your input picture)
+
+6. You could see the forground or background picture in the window and both pictures will be saved in the file called "one.bmp" and "two.bmp".
