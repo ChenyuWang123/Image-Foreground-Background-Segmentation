@@ -9,7 +9,7 @@ Our target is to design and implement an algorithm to segment any input images i
 For extension part, we have designed an application to remove certain part of image interactively, and have made attempts and exploration on a more efficient method. The new method developed by ourselves performed a more stable performance than the other two.
 
 ![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/Python(Include%20UI)/6.JPG)
-![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/Python(Include%20UI)/7.JPG)
+![](https://github.com/ChenyuWang123/Image-Foreground-Background-Segmentation/blob/master/Python(Include%20UI)/7.jpg)
 
 
 ## C++ Version Installation (Windows)
