@@ -15,7 +15,7 @@ For extension part, we have designed an application to remove certain part of im
 
      https://www.python.org/downloads/
 
-3. Install matplotlib, pylab, numpy, sklearn, cv2， scipy, PIL and copy for Python
+3. Install `matplotlib`, `pylab`, `numpy`, `sklearn`, `cv2`， `scipy`, `PIL` , `copy` for Python
 
 4. Unzip all project files and open the 'obj' file in QT platform
 
