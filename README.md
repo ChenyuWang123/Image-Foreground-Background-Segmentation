@@ -10,7 +10,7 @@ For extension part, we have designed an application to remove certain part of im
 
 <div align=center><img width="200" height="200" src="https://i1.kknews.cc/SIG=t0eajp/288r00028791qn583976.jpg"/></div> 
 
-## C++ Version Installation (Windows)
+## C++ Version Installation Guide (Windows)
 1. Install QT 4.6
 
      https://www.qt.io/download
