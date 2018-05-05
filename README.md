@@ -17,9 +17,9 @@ For extension part, we have designed an application to remove certain part of im
 
 3. Install `matplotlib`, `pylab`, `numpy`, `sklearn`, `cv2`，`scipy`, `PIL` , `copy` for Python
 
-4. Unzip all project files and open the 'obj' file in QT platform
+4. Unzip all project files and open the '*.pro' file in QT platform
 
-5. Unfold the folder on the left bar and double click the *.pro file, entering edit mode
+5. Unfold the folder on the left bar and double click the '*.pro' file, entering edit mode
 
 6. Add these two lines to the file:
 
