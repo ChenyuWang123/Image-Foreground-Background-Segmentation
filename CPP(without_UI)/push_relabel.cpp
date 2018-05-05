@@ -140,7 +140,7 @@ int main()
             result.push_back(0);
     }
     result.pop_back();
-    ofstream outFile("/Volumes/Transcend/pushhard/pushhard/r.txt");
+    ofstream outFile("/Volumes/Transcend/pushhard/pushhard/re.txt");
     // the important part
     for (const auto &e : result) outFile << e << ",";
     return 0;
