@@ -6,7 +6,7 @@ Our target is to design and implement an algorithm to segment any input images i
 For extension part, we have designed an application to remove certain part of image interactively, and have made attempts and exploration on a more efficient method. The new method developed by ourselves performed a more stable performance than the other two.
 
 
-## Installation (Windows)
+## C++ Version Installation (Windows)
 1. Install QT 4.6
 
      https://www.qt.io/download
