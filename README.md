@@ -8,7 +8,7 @@
 
      https://www.qt.io/download
 
-2. Make sure that you have Python3 installed
+2. Install Python 3
 
      https://www.python.org/downloads/
 
