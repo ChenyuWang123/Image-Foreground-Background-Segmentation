@@ -10,7 +10,7 @@ For extension part, we have designed an application to remove certain part of im
 
 <div align=center><img width="200" height="200" src="https://i1.kknews.cc/SIG=t0eajp/288r00028791qn583976.jpg"/></div> 
 
-## C++ Version Installation Guide (Windows)
+## C++ Version Installation Guide (Windows)(UI)
 1. Install QT 4.6
 
      https://www.qt.io/download
@@ -49,7 +49,7 @@ For extension part, we have designed an application to remove certain part of im
      
 9. Make sure the compiler runs in `MSVC 2017 64 bits` and `debug` mode, start!
 
-## CPP without UI:
+## C++ version without UI:
 
 If you want to run the CPP version without UI, you could enter the CPP file and run three files in order: GMM.py, push_relabel.cpp, show.py. 
 
@@ -57,7 +57,7 @@ Each program will read the output file generated from the last file automaticaly
 
 The show.py will show the background and foreground of the picture and save them in the local file.  
 
-## Python Version Installation Guide
+## Python Version Installation Guide(with UI)
 
 1. Download the file from our GitHub
 
