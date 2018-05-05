@@ -27,4 +27,8 @@ For extension part, we have designed an application to remove certain part of im
 
      `LIBS += C:/Python36/libs/python36.lib`
      
-7. 
+7. Open `pyconfig.h`, and modify as follows
+
+     #ifdef _DEBUG 
+     //# define Py_DEBUG  
+     #endif 
