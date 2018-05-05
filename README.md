@@ -27,8 +27,19 @@ For extension part, we have designed an application to remove certain part of im
 
      `LIBS += C:/Python36/libs/python36.lib`
      
-7. Open `pyconfig.h`, and modify as follows
+7. Open `pyconfig.h` and modify as follows
 
-     #ifdef _DEBUG 
-     //# define Py_DEBUG  
-     #endif 
+     `#ifdef _DEBUG` 
+     
+     `//# define Py_DEBUG` 
+     
+     `#endif`
+     
+8. Open `object.h` and modify as follows
+
+     `#if defined(Py_DEBUG) && !defined(Py_TRACE_REFS)`
+     
+     `// #define Py_TRACE_REFS`
+     
+     `#endif`
+     
