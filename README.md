@@ -14,4 +14,8 @@
 
 3. Install matplotlib, numpy, sklearn, cv2， scipy, PLI, copy for Python
 
-4.
+4. Unzip all project files and open the 'obj' file in QT platform
+
+5. Unfold the folder on the left bar and double click the 'obj' file, entering edit mode
+
+6.
