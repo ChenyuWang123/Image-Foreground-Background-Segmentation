@@ -10,6 +10,8 @@
 
 2. Make sure that you have Python3 installed
 
+     https://www.python.org/downloads/
+
 3. Install matplotlib, numpy, sklearn, cv2， scipy, PLI, copy for Python
 
 4.
